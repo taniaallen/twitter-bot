@@ -2,7 +2,7 @@
   "name": "twitter-bot",
   "version": "1.0.0",
   "description": "a simple Twitter bot and will retweet, favorite/like randomly on the basis of hashtags as a query that we will use and continue to do so after a certain period of time interval.",
-  "main": "server.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
